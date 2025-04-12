@@ -1,0 +1,18 @@
+{"level":"info","message":"OPC UA Server initializing...","timestamp":"2025-04-11T14:58:47.721Z"}
+{"level":"info","message":"OPC UA Server initializing...","timestamp":"2025-04-11T14:59:57.001Z"}
+{"level":"info","message":"OPC UA Server is now listening on port 4334","timestamp":"2025-04-11T14:59:57.718Z"}
+{"level":"info","message":"The primary server endpoint url is opc.tcp://DESKTOP-JBEMFS0:4334/UA/MyServer","timestamp":"2025-04-11T14:59:57.718Z"}
+{"level":"info","message":"OPC UA Server initialized successfully","timestamp":"2025-04-11T14:59:58.018Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-04-11T15:00:20.549Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-04-11T15:00:20.552Z"}
+{"level":"info","message":"Server shutdown completed","timestamp":"2025-04-11T15:00:20.673Z"}
+{"level":"info","message":"OPC UA Server initializing...","timestamp":"2025-04-11T15:01:34.776Z"}
+{"level":"info","message":"OPC UA Server is now listening on port 4334","timestamp":"2025-04-11T15:01:35.591Z"}
+{"level":"info","message":"The primary server endpoint url is opc.tcp://DESKTOP-JBEMFS0:4334/UA/MyServer","timestamp":"2025-04-11T15:01:35.591Z"}
+{"level":"info","message":"OPC UA Server initialized successfully","timestamp":"2025-04-11T15:01:35.791Z"}
+{"level":"info","message":"OPC UA Server initializing...","timestamp":"2025-04-11T15:07:05.023Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Failed to start server: listen EADDRINUSE: address already in use :::4334","port":4334,"stack":"Error: listen EADDRINUSE: address already in use :::4334\n    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n    at listenInCluster (node:net:1920:12)\n    at Server.listen (node:net:2008:7)\n    at OPCUAServerEndPoint.listen (G:\\MyCode\\nodeOPCUA\\node_modules\\node-opcua-server\\dist\\server_end_point.js:314:22)\n    at OPCUAServerEndPoint.start (G:\\MyCode\\nodeOPCUA\\node_modules\\node-opcua-server\\dist\\server_end_point.js:392:14)\n    at G:\\MyCode\\nodeOPCUA\\node_modules\\node-opcua-server\\dist\\base_server.js:203:69\n    at new Promise (<anonymous>)\n    at OPCUAServer.startAsync (G:\\MyCode\\nodeOPCUA\\node_modules\\node-opcua-server\\dist\\base_server.js:203:27)","syscall":"listen","timestamp":"2025-04-11T15:07:05.980Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-04-11T15:27:25.512Z"}
+{"level":"info","message":"Server shutdown completed","timestamp":"2025-04-11T15:27:25.638Z"}
+{"level":"info","message":"OPC UA Server initializing...","timestamp":"2025-04-11T15:28:39.985Z"}
+{"level":"info","message":"OPC UA Server initializing...","timestamp":"2025-04-11T15:31:24.491Z"}
